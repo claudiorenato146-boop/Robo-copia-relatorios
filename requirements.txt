@@ -1,0 +1,5 @@
+# Em producao este robo usa somente a biblioteca padrao do Python 3.11+.
+# Nao ha nada a instalar para rodar.
+#
+# Para executar os testes:
+#     pip install -r requirements-dev.txt
